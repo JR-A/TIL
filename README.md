@@ -9,5 +9,5 @@
 ## 분류
 
 ### Algorithm
-
+ - [1.빅오표기법(big-O notation)](https://github.com/JR-A/TIL/blob/main/Algorithm/big-o.md)
 ### Spring
